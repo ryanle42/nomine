@@ -1,1 +1,1 @@
-Site stub for Nomine
+Simple site stub for Nomine
